@@ -392,16 +392,6 @@ We welcome contributions! Please follow these steps:
 - [ ] **AI-Powered Matching** - Smart job-candidate matching
 - [ ] **Multi-language Support** - Internationalization
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Developer
-
-**ZIDIOConnect Project**
-- 🌐 GitHub: [abhishekhbihari007/ZidioProject](https://github.com/abhishekhbihari007/ZidioProject)
-- 📧 Contact: Available through GitHub issues
-- 🚀 Live Demo: Deploy to Vercel for instant access
 
 ## 🙏 Acknowledgments
 
